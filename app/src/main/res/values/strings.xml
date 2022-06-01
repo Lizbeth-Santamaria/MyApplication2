@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application 2</string>
+    <string name="textViewName_texto">Biblioteca Virtual</string>
+    <string name="ViewHintUsuario_texto">Usuario</string>
+    <string name="ViewHintContrasena_texto">Contraseña</string>
+    <string name="ViewOlvidoContrasena_texto">¿Olvido su contraseña?</string>
 </resources>
