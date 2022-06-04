@@ -4,4 +4,8 @@
     <string name="ViewHintUsuario_texto">Usuario</string>
     <string name="ViewHintContrasena_texto">Contraseña</string>
     <string name="ViewOlvidoContrasena_texto">¿Olvido su contraseña?</string>
+    <string name="buttonIngresar_texto">Ingresar</string>
+    <string name="chkNocerrar_texto">No cerrar cuenta</string>
+    <string name="textViewRegistrar_texto">Registrarse</string>
+    <string name="textViewInicioSesion_texto">Iniciar sesion con</string>
 </resources>
