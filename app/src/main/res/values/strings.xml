@@ -8,4 +8,5 @@
     <string name="chkNocerrar_texto">No cerrar cuenta</string>
     <string name="textViewRegistrar_texto">Registrarse</string>
     <string name="textViewInicioSesion_texto">Iniciar sesion con</string>
+    <string name="texActionBar_texto">Bienvenidos!!</string>
 </resources>

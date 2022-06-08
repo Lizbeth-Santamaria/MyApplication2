@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="142dp"
@@ -35,18 +36,18 @@
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName2" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textViewRegistro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="4dp"
         android:layout_marginTop="28dp"
         android:text="@string/textViewRegistrar_texto"
         android:textColor="#2136F3"
-        app:layout_constraintStart_toStartOf="@+id/checkBox"
-        app:layout_constraintTop_toBottomOf="@+id/checkBox" />
+        app:layout_constraintStart_toStartOf="@+id/checkBoxNoCerrarCuenta"
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxNoCerrarCuenta" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/checkBoxNoCerrarCuenta"
         android:layout_width="137dp"
         android:layout_height="48dp"
         android:text="@string/chkNocerrar_texto"
