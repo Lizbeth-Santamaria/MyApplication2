@@ -3,6 +3,7 @@ package com.santamarializbeth.myapplication2
 
 import android.graphics.Color
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.Toast
@@ -16,6 +17,11 @@ class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
+        Log.d("TAG_LOG", "entramos en onCreate")
+        Log.e("TAG_LOG", "entramos en onCreate")
+        Log.w("TAG_LOG", "entramos en onCreate")
+        Log.i("TAG_LOG", "entramos en onCreate")
+        Log.v("TAG_LOG", "entramos en onCreate")
 
         //Zona de inicializacion de Saludo
         buttonSaludo = findViewById(R.id.buttonSaludo)
