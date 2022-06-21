@@ -2,6 +2,7 @@ package com.santamarializbeth.myapplication2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.*
 import androidx.appcompat.app.ActionBar
 
